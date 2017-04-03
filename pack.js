@@ -1,4 +1,4 @@
-var langpack = {};
+langpack = {};
 langpack.hue = {};
 langpack.message = {};
 langpack.notification = {};
