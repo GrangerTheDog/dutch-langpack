@@ -6,7 +6,7 @@ langpack.notification = {};
 
 
 langpack.message.welcome = "Verbonden als %name%! Welkom! :)";
-langpack.message.notconnected = "je bent niet in de server.";
+langpack.message.notconnected = "Je bent niet in de server.";
 langpack.message.server_is_offline = "Server is offline.";
 langpack.message.inavlid_url = "Ongeldige url.";
 langpack.message.invalid_connection = "Ongeldige verbinding!";
